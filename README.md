@@ -1,3 +1,3 @@
 ### Notas
 
-Este es un comentario de prueba
+------- Este es un comentario de prueba -------
